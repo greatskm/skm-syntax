@@ -1,0 +1,16 @@
+{
+  "name": "skm-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A theme between dark and light themes",
+  "keywords": [
+    "syntax",
+    "theme",
+    "gray"
+  ],
+  "repository": "https://github.com/greatskm/skm-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
