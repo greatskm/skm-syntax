@@ -1,7 +1,7 @@
 {
   "name": "skm-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A theme between dark and light themes",
   "keywords": [
     "syntax",
